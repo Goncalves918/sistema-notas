@@ -67,7 +67,23 @@ int main () {
         cout << (i + 1) << ". " << nomes[i] << endl;
     }
 
+    cout << "\n=== RELAÓRIO === " << endl;
+    int aprovados = 0;
+    for (int i = 0; i < qtdAlunos; i++) {
+        cout << "Aluno: " << nomes[i] << endl;
+        cout << "Média: " << media[i] << endl;
+        if (media[i] >= 6) {
+            cout << "Situação: Aprovado" << endl;
+            aprovados++;
+        } else {
+            cout << "Situação: Reprovado" << endl;
+        }
+        cout << "-------------------" << endl;   
+    }
 
+    cout << "\nTotal de alunos aprovados: " << aprovados << endl;
+
+    cout << "\n=== FIM DO PROGRAMA ===" << endl;
 
     return 0;
 }
