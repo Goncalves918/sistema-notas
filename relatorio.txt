@@ -1,0 +1,9 @@
+=== RELATÓRIO ===
+Aluno: victor
+Média: 8
+Situação: Aprovado
+-------------------
+Aluno: Maria Clara
+Média: 9
+Situação: Aprovado
+-------------------
