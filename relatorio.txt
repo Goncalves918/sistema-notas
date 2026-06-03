@@ -1,9 +1,5 @@
 === RELATÓRIO ===
-Aluno: Ana Beatriz
-Média: 9.25
-Situação: Aprovado
--------------------
-Aluno: Victor
-Média: 8.5
-Situação: Aprovado
+Aluno: 3
+Média: 2.5
+Situação: Reprovado
 -------------------
